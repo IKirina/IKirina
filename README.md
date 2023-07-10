@@ -66,7 +66,7 @@
 - Создадим CTE с вычисленными балансами каждого студента. 
 - Посмотрим, как менялось общее количество уроков на балансах студентов.
 
-> <a https://github.com/IKirina/IKirina/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203.xlsx>Ссылка на проект 2</a>
+> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект 3</a>
 
 
   <p>Выводы (итоги):<p>
